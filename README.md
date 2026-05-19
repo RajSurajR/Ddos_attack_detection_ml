@@ -86,6 +86,7 @@ This approach helps balance:
 
 ### 4. Hyperparameter Tuning
 - Used **RandomizedSearchCV**
+- Used **BayesSearchCV**
 - Improved model performance
 - Reduced tuning time significantly
 
@@ -125,7 +126,8 @@ project_code/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Ddos_attack_detection_ml.git
+
+git clone https://github.com/RajSurajR/Ddos_attack_detection_ml.git
 cd Ddos_attack_detection_ml
 ```
 
@@ -201,5 +203,5 @@ Run notebooks in order:
 ## 👤 Author
 
 Suraj Rajak
-GitHub: https://github.com/yourusername  
+GitHub: https://github.com/RajSurajR
 LinkedIn: https://linkedin.com/in/surajrajak
