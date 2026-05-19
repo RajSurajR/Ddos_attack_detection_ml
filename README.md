@@ -185,13 +185,6 @@ Run notebooks in order:
 
 ---
 
-## ⚠️ Limitations
-
-- Offline model training (no deployment)
-- Multiclass accuracy affected by similar attack patterns
-
----
-
 ## 🔮 Future Work
 
 - Further optimize dataset size vs accuracy
